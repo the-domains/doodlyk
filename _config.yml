@@ -1,7 +1,7 @@
 name: Doodlyk
 favicon: null
-layout_spectrum: 0.21073506865650415
-typography_spectrum: 0.6857505198568106
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#010101'
     - '#1358a6'
   brandStrength: 0.9724519348237664
-  lightness: 0.8397509269416332
-  saturation: 0.6857222544495016
-  rhythmicContrast: 0.8233662825077772
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
